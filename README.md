@@ -1,1 +1,1 @@
-Deployed Link:https://dynamicmavens.netlify.app/
+Deployed Link:https://dynamicmavensconsultancy.netlify.app/
