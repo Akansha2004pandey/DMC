@@ -369,7 +369,11 @@ footer div h4{
       background-color: #fff4f4;
       width: 100%;
     }
-  
+      .featured-services{
+      display:flex;
+      flex-direction: column;
+      align-items:center;
+  }
     .services li {
       padding: 10px;
       color:black;
