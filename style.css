@@ -294,12 +294,12 @@ padding: 10px;
         display:flex;
         flex-direction: column;
     }
-    .three{
+    .choose .three{
         display:flex;
         flex-direction:flex-col;
         align-items:center;
     }
-    .two{
+    .choose .two{
           display:flex;
         flex-direction:flex-col;
         align-items:center;
