@@ -1,1 +1,1 @@
-Deployed Link:https://dynamicmavensconsultancy.netlify.app/
+Deployed Link:https://dmclandingpage.netlify.app/
