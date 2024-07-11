@@ -406,3 +406,10 @@ footer div h4{
       background-color: rgb(192, 49, 13);
       color:white;
   }
+@media (max-width: 1268px) {
+  .featured-services{
+      display:flex;
+      flex-direction: column;
+      align-items:center;
+  }
+}
