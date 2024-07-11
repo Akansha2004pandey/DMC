@@ -294,6 +294,17 @@ padding: 10px;
         display:flex;
         flex-direction: column;
     }
+    .three{
+        display:flex;
+        flex-direction:flex-col;
+        align-items:center;
+    }
+    .two{
+          display:flex;
+        flex-direction:flex-col;
+        align-items:center;
+    }
+        
   }
   .hamburger {
     display: none;
